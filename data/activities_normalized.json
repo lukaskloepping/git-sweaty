@@ -362,5 +362,18 @@
     "start_date_local": "2026-02-28T17:24:35Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-04",
+    "distance": 33162.4,
+    "elevation_gain": 0.0,
+    "id": "17605941033",
+    "moving_time": 4464.0,
+    "name": "Zwift - Threshold Development",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-04T18:36:45Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
