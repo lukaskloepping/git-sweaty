@@ -260,6 +260,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17605941033",
       "year": 2026
+    },
+    {
+      "date": "2026-03-05",
+      "hour": 18,
+      "name": "Zwift - Foundation",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17617207902",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -537,11 +546,20 @@
           "distance": 33162.4,
           "elevation_gain": 0.0,
           "moving_time": 4464.0
+        },
+        "2026-03-05": {
+          "activity_ids": [
+            "17617207902"
+          ],
+          "count": 1,
+          "distance": 27459.0,
+          "elevation_gain": 194.0,
+          "moving_time": 4277.0
         }
       }
     }
   },
-  "generated_at": "2026-03-05T15:42:14.029649+00:00",
+  "generated_at": "2026-03-06T15:28:51.402994+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/106243159",
   "repo": "lukaskloepping/git-sweaty",
