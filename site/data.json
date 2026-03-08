@@ -269,6 +269,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17617207902",
       "year": 2026
+    },
+    {
+      "date": "2026-03-07",
+      "hour": 16,
+      "name": "Zwift - Threshold Development",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17639408624",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -555,11 +564,20 @@
           "distance": 27459.0,
           "elevation_gain": 194.0,
           "moving_time": 4277.0
+        },
+        "2026-03-07": {
+          "activity_ids": [
+            "17639408624"
+          ],
+          "count": 1,
+          "distance": 24779.0,
+          "elevation_gain": 299.0,
+          "moving_time": 3981.0
         }
       }
     }
   },
-  "generated_at": "2026-03-07T15:14:59.388591+00:00",
+  "generated_at": "2026-03-08T15:15:42.720883+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/106243159",
   "repo": "lukaskloepping/git-sweaty",
