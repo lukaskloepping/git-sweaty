@@ -401,5 +401,18 @@
     "start_date_local": "2026-03-07T16:42:39Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 15282.4,
+    "elevation_gain": 121.0,
+    "id": "17733786769",
+    "moving_time": 2415.0,
+    "name": "Zwift - Active Recovery",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-15T15:36:17Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
