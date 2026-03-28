@@ -305,6 +305,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17755012278",
       "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 11,
+      "name": "Mittagspaziergang",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17887465096",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -629,11 +638,20 @@
           "distance": 6439.0,
           "elevation_gain": 5.0,
           "moving_time": 3589.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17887465096"
+          ],
+          "count": 1,
+          "distance": 4825.8,
+          "elevation_gain": 12.0,
+          "moving_time": 3558.0
         }
       }
     }
   },
-  "generated_at": "2026-03-27T15:42:49.746636+00:00",
+  "generated_at": "2026-03-28T15:22:36.600147+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/106243159",
   "repo": "lukaskloepping/git-sweaty",
