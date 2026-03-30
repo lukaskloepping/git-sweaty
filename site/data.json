@@ -314,6 +314,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17887465096",
       "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 10,
+      "name": "Usedom auf\u2018m Damenrad",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17903668847",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -429,6 +438,17 @@
       }
     },
     "2026": {
+      "Ride": {
+        "2026-03-29": {
+          "activity_ids": [
+            "17903668847"
+          ],
+          "count": 1,
+          "distance": 55132.8,
+          "elevation_gain": 412.0,
+          "moving_time": 12160.0
+        }
+      },
       "VirtualRide": {
         "2026-01-22": {
           "activity_ids": [
@@ -651,7 +671,7 @@
       }
     }
   },
-  "generated_at": "2026-03-29T15:22:56.152919+00:00",
+  "generated_at": "2026-03-30T16:00:54.602782+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/106243159",
   "repo": "lukaskloepping/git-sweaty",
