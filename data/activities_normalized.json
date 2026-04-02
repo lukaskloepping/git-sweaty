@@ -466,5 +466,31 @@
     "start_date_local": "2026-03-29T10:24:50Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 7858.6,
+    "elevation_gain": 33.0,
+    "id": "17941059968",
+    "moving_time": 955.0,
+    "name": "Zwift - FTP Ramp Test",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-01T17:45:55Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 20707.9,
+    "elevation_gain": 169.0,
+    "id": "17941768846",
+    "moving_time": 3036.0,
+    "name": "Zwift - Welcome Workout",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-01T18:07:56Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
