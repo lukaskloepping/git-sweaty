@@ -341,6 +341,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17941768846",
       "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 10,
+      "name": "AUF OSTERSONNTACH",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17987940489",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -465,6 +474,15 @@
           "distance": 55132.8,
           "elevation_gain": 412.0,
           "moving_time": 12160.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "17987940489"
+          ],
+          "count": 1,
+          "distance": 27851.4,
+          "elevation_gain": 194.2,
+          "moving_time": 6845.0
         }
       },
       "VirtualRide": {
@@ -699,7 +717,7 @@
       }
     }
   },
-  "generated_at": "2026-04-04T15:23:00.631597+00:00",
+  "generated_at": "2026-04-05T15:24:10.843420+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/106243159",
   "repo": "lukaskloepping/git-sweaty",

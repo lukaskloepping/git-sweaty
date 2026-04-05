@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T15:23:00.625744+00:00",
+  "generated_at": "2026-04-05T15:24:10.837496+00:00",
   "years": {
     "2022": {
       "GravelRide": {
@@ -122,6 +122,15 @@
           "distance": 55132.8,
           "elevation_gain": 412.0,
           "moving_time": 12160.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "17987940489"
+          ],
+          "count": 1,
+          "distance": 27851.4,
+          "elevation_gain": 194.2,
+          "moving_time": 6845.0
         }
       },
       "VirtualRide": {
